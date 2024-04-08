@@ -1,0 +1,12 @@
+{
+  "activePool": [
+    "Mirage",
+    "Inferno",
+    "Nuke",
+    "Overpass",
+    "Vertigo",
+    "Anubis",
+    "Ancient"
+  ],
+  "casual": ["Dust2"]
+}
