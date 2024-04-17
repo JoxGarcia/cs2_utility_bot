@@ -1,6 +1,6 @@
 const { ApplicationCommandOptionType } = require("discord.js");
 const { SlashCommand } = require("gbfcommands");
-const SuggestUtil = require("../utils/suggestUtil").default; // Asegúrate de tener la ruta correcta al archivo
+const SuggestUtil = require("../utils/suggestUtil"); // Asegúrate de tener la ruta correcta al archivo
 
 module.exports = class suggestCommand extends SlashCommand {
   constructor(client) {
